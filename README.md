@@ -162,6 +162,7 @@ curl -s http://localhost:9102/metrics | grep app_metrics
 
 ---
 
+[![Click to enlarge](pic/typescript_statsd_example.png)](pic/typescript_statsd_example.png)
 ## **✅ Summary**
 - **StatsD Exporter** is running in **Docker** (`port 9125` UDP)
 - **TypeScript App** is sending metrics to StatsD
